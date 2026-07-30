@@ -1,0 +1,16 @@
+# 数据与大型产物（不入库，自行生成或从官方渠道获取）
+*.npy
+*.pkl
+*.csv
+dataset1/
+dataset2/
+saved_*/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# 系统
+.DS_Store
+Thumbs.db
